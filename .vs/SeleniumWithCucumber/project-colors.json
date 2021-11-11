@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "2c3d1031-5927-4558-ae07-fdbbb00c2238": {
+      "ProjectGuid": "2c3d1031-5927-4558-ae07-fdbbb00c2238",
+      "DisplayName": "SeleniumWithCucumber",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
